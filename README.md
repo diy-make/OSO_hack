@@ -37,3 +37,19 @@ From a purely hardware perspective, this "subconscious" MVP is identical to our 
 ### Agile Robotics
 
 Our development methodology is "agile." We are not building a complete, polished robot from the start. Instead, we are building a "sub-minimum-viable-robot"—a functional core that we can iterate upon. This agile approach allows us to quickly test ideas and adapt to new challenges, which is essential in a fast-moving field like AI.
+
+## Business Management Innovation: The "Get Out of the Office" Mandate
+
+My experience at EthGlobal Buenos Aires highlighted another crucial business management innovation: the "Get Out of the Office" Mandate. Inspired by Steve Blank's Customer Development, this principle emphasizes that real innovation and product-market fit are discovered not through internal assumptions, but through direct engagement with users in their natural environment.
+
+### Debrief from EthGlobal Buenos Aires
+
+During the hackathon, my initial assumption was to use the "sub-minimum-viable-robot" for QR code tipping. However, by deploying the cheerbot on the Devconnect music stage and observing real-world interactions, I discovered a more impactful use case: capturing and displaying semi-professional photos to foster shared memories and nostalgia in real-time. The unique features of the Pimoroni Inky 13.3 e-ink display (readability, battery life, analog aesthetic) proved invaluable for this unexpected application.
+
+This pivot, driven by direct user interaction and agile adaptation, reinforced several key innovation principles:
+*   **User-centric discovery:** Assumptions made internally often miss the mark; real learning comes from users.
+*   **Rapid iteration and pivot:** Be ready to change course based on real-world feedback.
+*   **Embrace surprises:** Unexpected interactions can lead to the most valuable insights.
+*   **Blended methodologies:** Customer Development, Lean Startup, and Agile principles complement each other for grounded innovation.
+
+The "Get Out of the Office" Mandate, therefore, argues that true product success and innovative breakthroughs are unlocked by immersing oneself in the user's context, being flexible, and learning from real-world feedback—even if it means abandoning initial plans for more resonant discoveries.
